@@ -1,0 +1,39 @@
+
+.DS_Store
+# Compiled Object files
+*.slo
+*.lo
+*.o
+#*.obj
+
+# Precompiled Headers
+
+# Compiled Dynamic libraries
+
+# Fortran module files
+
+# Compiled Static libraries
+
+
+# Executables
+*.exe
+*.out
+*.app
+
+# ignore folders
+3.4/DDDice/cocos2d
+3.4/TinyFlare/proj.android/obj
+3.4/TinyFlare/proj.android/bin
+3.4/TinyFlare/proj.android/gen
+3.4/TinyFlare/cocos2d/cocos/platform/android/java/obj
+3.4/TinyFlare/cocos2d/cocos/platform/android/java/gen
+3.4/TinyFlare/cocos2d/cocos/platform/android/java/bin
+3.6/MazeJump/bin/
+3.6/MazeJump/proj.android/bin
+3.6/MazeJump/proj.android/gen
+3.6/MazeJump/proj.android/obj
+3.6/MazeJump/cocos2d/cocos/platform/android/java/obj
+3.6/MazeJump/cocos2d/cocos/platform/android/java/gen
+3.6/MazeJump/cocos2d/cocos/platform/android/java/bin
+libs/google-play-services_lib/bin/
+libs/google-play-services_lib/gen/
